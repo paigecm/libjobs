@@ -1,0 +1,23 @@
+5/19/2016
+
+"The Charles C. Sherrod Library at East Tennessee State University (ETSU) in Johnson City, TN seeks candidates for the position of Digital Scholarship Librarian to collaboratively plan, implement, and assess services supporting scholarly communication at ETSU. The Digital Scholarship Librarian manages the institutional repository (Digital Commons); collaborates with library colleagues to build and promote SelectedWorks websites for faculty; and engages with campus content creators to provide expertise on digital publishing, preservation and access, intellectual property rights, and open access and open scholarship initiatives. This is a full-time, 12-month, tenure-track position with academic rank of Assistant Professor reporting to the Director of Technology and Content Services."
+
+"Minimum qualifications include:
+- ALA-accredited MLS in library or information science or equivalent
+- Strong working knowledge of current issues and trends in intellectual property, copyright and fair use, open access, and author rights
+- Experience with at least one of the following: digital collections (e.g., ContentDM, Omeka); scanning, converting, and encoding text using OCR and XML editing tools; institutional repositories (e.g., Fedora, DSpace, Digital Commons)
+- Experience with metadata standards and protocols (e.g., Dublin Core, Open Archives Initiative-Protocol for Metadata Harvesting (OAI-PMH))
+- Experience with curation of various formats (e.g., text, video, audio, still images)
+- Working knowledge of Excel, XML, HTML
+- Working knowledge of project management and ability to manage multiple projects concurrently
+- Strong interpersonal, oral and written communication skills
+- Strong analytical skills; ability to analyze, organize, and present data effectively
+ 
+"
+
+"Preferred qualifications include: - Experience working with an institutional repository, Digital Commons preferred - Experience working in an academic library - Experience with copyright and fair use or intellectual property rights - Knowledge of digital preservation techniques and technologies - Supervisory experience"
+
+
+
+"- Knowledge of current issues in scholarly communication (i.e. open access, author rights, copyright, fair use, deposit mandates) 
+- Knowledge of current metadata standards, protocols, and structures (e.g., Dublin Core, Open Archives Initiative-Protocol f"

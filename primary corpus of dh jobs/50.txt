@@ -1,0 +1,45 @@
+7/30/2015
+
+"The Charles C. Sherrod Library at East Tennessee State University (ETSU) in Johnson City, TN seeks candidates for the position of Digital Scholarship Librarian to collaboratively plan, implement, and assess services supporting scholarly communication at ETSU. The Digital Scholarship Librarian manages the institutional repository (Digital Commons); collaborates with library colleagues to build and promote SelectedWorks websites for faculty; and engages with campus content creators to provide expertise on digital publishing, preservation and access, intellectual property rights, and open access and open scholarship initiatives. This is a full-time, 12-month, tenure-track position with academic rank of Assistant Professor reporting to the Director of Technology and Content Services."
+
+"Knowledge, Skills, and Abilities:
+- Knowledge of current issues in scholarly communication (i.e. open access, author rights, copyright, fair use, deposit mandates) 
+- Knowledge of current metadata schemas and standards 
+- Knowledge of repository architecture and data curation issues 
+- Ability to interact effectively with diverse faculty, staff, students, and administrators 
+- Ability to work both independently and collaboratively as part of a team 
+- Excellent planning, project management, and communication skills  
+
+
+Minimum qualifications include:
+- ALA-accredited MLS in library or information science or equivalent
+- Strong working knowledge of current issues and trends in intellectual property, copyright and fair use, open access, and author rights
+- Coursework or experience with digital collections, institutional repositories, or data management
+- Coursework or experience with metadata schema and standards (e.g., Dublin Core, MODS)
+- Coursework or experience with curation of various formats (e.g., text, video, audio, still images)
+- Working knowledge of Excel, XML, HTML
+- Working knowledge of project management and ability to manage multiple projects concurrently
+- Strong interpersonal, oral and written communication skills
+- Strong analytical skills; ability to analyze, organize, and present data effectively
+
+
+Preferred qualifications:
+- Experience working with an institutional repository, Digital Commons preferred 
+- Experience working in an academic library 
+- Coursework or experience with copyright and fair use or intellectual property rights 
+- Supervisory experience"
+
+
+
+"Digital Collections,Digital Scholarship,Education,Metadata,Outreach/Advocacy"
+
+"Essential Functions: 
+- Supports library outreach efforts to identify, collect, and provide access to university-created digital content supporting research, teaching and learning. 
+- Contributes to education and outreach activities related to scholarly communication, copyright and fair use, open access, and author rights. 
+- Develops, documents, and communicates policies and procedures governing content acquisition/submission, organization, and description in Digital Commons @ ETSU. 
+- Collaborates with campus colleagues to establish infrastructure and services to support scholarly publishing in Digital Commons @ ETSU and manage new forms of digital scholarly content (e.g., learning objects, data sets). 
+- Develops metrics, collects and analyzes data. Prepares and presents reports and presentations that document the development and use of Digital Commons @ ETSU and Selected Works. Contributes to reports and presentations about scholarly communication outreach initiatives and outcomes. 
+- Monitors national trends, standards, and policies involving scholarly communication. 
+- Supervises student workers and graduate assistants. 
+
+As a tenure-track library faculty member, the Digital Scholarship Librarian will be expected to engage in professional development and scholarly activities and provide service to the university, the community, and the profession according to the University and Library policies for tenure and promotion."

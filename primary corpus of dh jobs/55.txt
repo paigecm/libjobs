@@ -1,0 +1,28 @@
+9/28/2015
+
+"Northeastern University Libraries are pleased to announce a new position as part of our growing research and development activities in the fields of digital humanities and digital libraries. The Library is undertaking an ambitious agenda in support of emerging digital humanities and quantitative social sciences research efforts at Northeastern. With the launch of an enhanced digital repository service and an increasing number of major grant-funded projects, the Library is deeply engaged with the universityÕs research mission.
+
+This position will work as part of a team that includes the staff of the Digital Scholarship Group and Library Technical Services, to develop and expand support for digital scholarship, digital repository services, discovery tools, and related critical library services. We are looking for technically confident, fast learners who are equally comfortable with collaborative development, thoughtful experimentation, and critical system support. Team members have opportunities to participate in grant-funded research, collaborate on cutting-edge digital scholarship projects, and lead the development of new tools and systems. If you are interested in exploring new ways that technology can support research in the humanities and social sciences, we would like very much to hear from you."
+
+"Qualifications
+
+
+* Bachelor's degree in Computer Science, Information Systems or a related field (or equivalent experience).
+* Excellent knowledge of web development using Ruby on Rails required.
+* Significant experience with Hydra and Fedora, including customization of Hydra gems preferred.
+* Significant experience with front-end development -- tools, techniques and workflow automation (using CSS and preprocessors, XHTML, JavaScript/JQuery, git/github, bootstrap responsive design framework, etc.).
+* Knowledge of current web development standards and cross platform compatibility and accessibility techniques.
+* Experience with Open Source software.
+* Ability to work in an API environment and experience with SOAP and/or REST desirable.
+* Excellent oral and written skills to communicate with technical and non-technical individuals and prepare project documentation to support training and best practices encoding guidelines
+* Strong interpersonal skill; ability to work successfully in a collaborative environment.
+* Ability to take initiative and meet deadlines.
+* Experience with IT in a library or higher education setting desirable."
+
+"Computer Programming,Database Design/Development,Digital Collections"
+
+
+
+"The Programmer/Analyst designs applications that interact with core components of the LibraryÕs digital repository service (Hydra) and programs in such languages as Ruby, PHP, CSS, and JavaScript. Reporting to the Director of the Digital Scholarship Group, the Programmer/Analyst works collaboratively with colleagues in the Library and across campus, and participates in an ongoing evaluation of emerging academic and library technologies. The position works closely with the library and faculty colleagues to develop a sustainable software ecology that can be applied to range of scholarly projects in the humanities, social sciences, and related disciplines.
+
+Please note: This is a two-year pilot position with opportunity for extension."

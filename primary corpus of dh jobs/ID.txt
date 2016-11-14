@@ -1,0 +1,11 @@
+date
+
+description
+
+min_qual
+
+pref_qual
+
+functions
+
+responsibilities

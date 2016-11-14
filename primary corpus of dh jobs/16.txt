@@ -1,0 +1,11 @@
+3/8/2013
+
+
+
+
+
+"ALA accredited Master's degree in library/information science. Demonstrated experience in web design and content creation. Knowledge of HTML, CSS, Javascript, and PHP. Familiarity with XML, EAD, EAC. Ability to write concisely and effectively for the web. Experience with current technologies and software used in digital humanities projects such as TEI and RDF. Familiarity with scholarly communication, copyright, open access, data curation, and licensing of online resources. Excellent interpersonal skills. Ability to communicate complex technical information to users with various levels of technology experience. Ability to work collaboratively with people of diverse backgrounds. Ability to manage multiple priorities in fast-paced, rapidly changing technical environment. Excellent organization, planning, and decision-making skills."
+
+
+
+"Reporting to the Head, Library Information Technology User Support Department, the primary responsibility of this position is to support digital humanities initiatives at the University of Delaware. The position is also responsible for expanding web access to the Library's digital collections and coordinating the Library's web presence. * Digital Humanities: Participate in the development and provide technical support to digital humanities projects. Work collaboratively with library colleagues and campus faculty in producing scholarly projects in the humanities. Evaluate existing tools and technologies and investigate emerging technologies for potential uses in humanities research. Provide training and group instruction. * Digital Collections: Collaborate with library staff to plan and manage web projects to increase web access to the Library's digital collections, particularly unique and scholarly materials. Create original content. Utilize open web resources and content sharing initiatives, such as the GLAM (Galleries, Libraries, Archives, and Museums) Wikiproject. * Web Environment: Coordinate the University of Delaware Library web environment, which provides worldwide access to collections, services and resources. Assess and monitor the functionality of Library web properties, as well as the visual display of content. Ensure user accessibility. Assist library staff in the development and implementation of new web content and services."
