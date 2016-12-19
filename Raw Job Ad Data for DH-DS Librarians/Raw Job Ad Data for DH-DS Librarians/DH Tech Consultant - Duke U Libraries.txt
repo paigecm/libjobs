@@ -1,0 +1,34 @@
+Digital Humanities Technology Consultant - Duke U Libraries
+
+October 7, 2011 - Wayback Machine
+
+
+
+The Digital Humanities Technology Consultant collaborates with faculty, departmental IT support staff, librarians, and Academic Technology Consultants in the Center for Instructional Technology to provide technical solutions for select research and teaching projects within digital humanities.   He/she works with faculty on scholarly projects, integrates and develops applications and tools that support project goals, and consults with librarians and Academic Technology Consultants in their work with faculty. The position reports to the Head of the Digital Scholarship and Production Services Department.
+Responsibilities
+Consultation
+Consults with faculty to provide project definition and analysis, including defining project scope, requirements and specifications, and project design. Recommends and assists with the integration and use of technology in the projects.
+Acts as the liaison to faculty in resolving technical issues. Diagnoses and escalates issues to other technical support units when appropriate.
+Collaborates with other technology groups on campus to ensure that technologies used fit within overall Duke technology infrastructure; help plan for newinfrastructure needs.
+Works with Library staff, academic departments and technology service providers throughout the University on projects to explore new hardware and software tools, and to advocate needs and obtain resources for faculty and students which are appropriate for their academic disciplines.
+ Implementation
+Provides technological support for humanities research projects. Support may include the evaluation and integration of existing tools, as well as the development of new applications to support humanities research. These applications may address needs related to digital content creation, content storage, content discovery, text analysis, data visualization and the manipulation and/or analysis of digital media.
+Integrates media object types into web applications and/or collaboration systems using appropriate encoding and compression methods.
+Training & Instruction
+Trains, supervises and mentors graduate Research Assistants working on digital humanities projects.
+Coordinates, develops and organizes events and programs such as workshops, lectures, demonstrations and training series to inform faculty on trends in digital humanities, methods for effective use of technologies, and use of specialized tools.
+Other
+Reviews professional literature; participate in newsgroups and other forums to stay abreast of new methodologies and practices relevant to digital humanities; and continually improve knowledge of academic technology.
+Participates in Library and University committees and work groups as relevant to goals and interests.
+Performs other duties as assigned.
+Supervisory Responsibilities
+This position supervises two research assistants.
+ 
+Qualifications
+It is the expectation that all Duke University Library staff members will demonstrate exceptional workplace behaviors in the execution of their specific position responsibilities. These behaviors are customer focus, collaboration, creative problem solving, continuous learning and a commitment to diversity. In addition, managers and supervisors are expected to help develop a common vision by providing clear direction and priorities, clarifying roles and responsibilities, and promoting mutual understanding through effective communication. They are also expected to take the time to effectively plan and evaluate performance, provide feedback, recognition and coaching, and develop employees to achieve their personal and organizational goals.
+Education
+Required: BA/BS or equivalent combination of education and experience.
+Preferred: Master’s degree in humanities or computer science.
+Experience
+Required: •	A minimum of three years’ experience in using technology in Humanities scholarship, and a demonstrated keen understanding of current projects and trends in the digital humanities. •	Demonstrated proficiency in one or more of the following areas: natural language processing, data-mining, machine learning, spatial analysis, data modeling, or information visualization. •	A proven record of developing applications both independently and as part of a team, from conception through implementation, including the architectural planning, design, coding, testing, debugging, and documentation phases of a software development project. •	Experience with constructing and automatically extracting information from both relational and non-relational databases, object-oriented programming (C++, Java), Unix Shell Programming, and markup and scripting languages (such as PHP, Perl, JavaScript, XML, XSLT, XHTML, CSS). •	Demonstrated proficiency managing IT projects and completing them according to schedule, outcomes and budget. • Experience developing and integrating tools in an open source environment. •	Experience working with faculty in an academic setting. • Familiarity with human/computer interface principles, and experience applying those principles in programming. •	Excellent interpersonal, oral and written communication skills •	Able to work independently and as a member of a team
+Preferred: •	Prior experience with academic technology support within a higher education environment •	Experience with the integration of digital media into web applications and/or collaboration systems •	Knowledge of workflows for digital media (streaming and non-streaming) •	Experience successfully supervising staff and/or graduate students •	Knowledge of issues related to technology facilities management •	Evidence of ability to generate faculty enthusiasm for and engagement in the use of new technologies in research and teaching •	Record of innovation and creativity in identifying and applying technological solutions to research and teaching needs
